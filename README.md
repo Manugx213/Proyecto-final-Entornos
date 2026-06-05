@@ -38,8 +38,8 @@ La documentación incluye:
 
 Clase principal que representa un rectángulo mediante los atributos:
 
-* ancho
-* alto
+* `ancho`
+* `alto`
 
 Métodos disponibles:
 
@@ -53,9 +53,29 @@ Clase de pruebas unitarias que verifica:
 * El cálculo correcto del área.
 * El cálculo correcto del perímetro.
 
+## Contenido del repositorio
+
+### Proyectos Eclipse
+
+* [Ejemplo](./Ejemplo)
+* [Ejemplo2](./Ejemplo2)
+* [Ejemplo3](./Ejemplo3)
+* [Ejemplo4](./Ejemplo4)
+
+### Documentación
+
+* [ENTORNOS DE DESARROLLO.pdf](./ENTORNOS%20DE%20DESARROLLO.pdf)
+
+### Informes de cobertura
+
+* [Coverage EJ1](./EJ1/index.html)
+* [Coverage EJ2](./EJ2/index.html)
+
 ## Tecnologías utilizadas
 
 * Java
 * JUnit 5
-* Eclipse
+* Eclipse IDE
 * JavaDoc
+* Git
+* GitHub
